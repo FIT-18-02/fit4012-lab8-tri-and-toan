@@ -3,7 +3,7 @@
 
 ## Team members
 
-- Thành viên 1: Trần Đình Đức Toàn - MSSV: 1871020264
+- Thành viên 1: Trần Đình Đức Toàn - MSSV: 1871020574
 - Thành viên 2: Nguyễn Đình Trí - MSSV: 1871020580
 
 ## Task division
