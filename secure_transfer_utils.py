@@ -15,7 +15,6 @@ RSA_KEY_SIZE = 2048
 LENGTH_HEADER_SIZE = 4
 SHA256_DIGEST_SIZE = 32
 
-
 def sha256_digest(data: bytes) -> bytes:
     """Return SHA-256 digest bytes for the original plaintext."""
     return hashlib.sha256(data).digest()
